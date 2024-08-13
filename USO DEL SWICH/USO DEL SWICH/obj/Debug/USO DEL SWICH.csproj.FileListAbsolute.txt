@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\USO DEL SWICH\USO DEL SWICH\bin\Debug\USO DEL SWICH.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\USO DEL SWICH\USO DEL SWICH\bin\Debug\USO DEL SWICH.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\USO DEL SWICH\USO DEL SWICH\bin\Debug\USO DEL SWICH.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\USO DEL SWICH\USO DEL SWICH\obj\Debug\USO DEL SWICH.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\USO DEL SWICH\USO DEL SWICH\obj\Debug\USO DEL SWICH.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\USO DEL SWICH\USO DEL SWICH\obj\Debug\USO DEL SWICH.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\USO DEL SWICH\USO DEL SWICH\obj\Debug\USO DEL SWICH.pdb

@@ -1,0 +1,6 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\MENU + COMPUTO 3\MENU + COMPUTO 3\bin\Debug\MENU + COMPUTO 3.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\MENU + COMPUTO 3\MENU + COMPUTO 3\bin\Debug\MENU + COMPUTO 3.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\MENU + COMPUTO 3\MENU + COMPUTO 3\bin\Debug\MENU + COMPUTO 3.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\MENU + COMPUTO 3\MENU + COMPUTO 3\obj\Debug\MENU + COMPUTO 3.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\MENU + COMPUTO 3\MENU + COMPUTO 3\obj\Debug\MENU + COMPUTO 3.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\MENU + COMPUTO 3\MENU + COMPUTO 3\obj\Debug\MENU + COMPUTO 3.pdb

@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\TIPOS DE DATOS\TIPOS DE DATOS\bin\Debug\TIPOS DE DATOS.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\TIPOS DE DATOS\TIPOS DE DATOS\bin\Debug\TIPOS DE DATOS.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\TIPOS DE DATOS\TIPOS DE DATOS\bin\Debug\TIPOS DE DATOS.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\TIPOS DE DATOS\TIPOS DE DATOS\obj\Debug\TIPOS DE DATOS.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\TIPOS DE DATOS\TIPOS DE DATOS\obj\Debug\TIPOS DE DATOS.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\TIPOS DE DATOS\TIPOS DE DATOS\obj\Debug\TIPOS DE DATOS.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\TIPOS DE DATOS\TIPOS DE DATOS\obj\Debug\TIPOS DE DATOS.pdb

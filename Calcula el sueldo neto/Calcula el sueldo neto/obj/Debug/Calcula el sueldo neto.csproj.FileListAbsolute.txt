@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Calcula el sueldo neto\Calcula el sueldo neto\bin\Debug\Calcula el sueldo neto.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Calcula el sueldo neto\Calcula el sueldo neto\bin\Debug\Calcula el sueldo neto.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Calcula el sueldo neto\Calcula el sueldo neto\bin\Debug\Calcula el sueldo neto.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Calcula el sueldo neto\Calcula el sueldo neto\obj\Debug\Calcula el sueldo neto.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Calcula el sueldo neto\Calcula el sueldo neto\obj\Debug\Calcula el sueldo neto.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Calcula el sueldo neto\Calcula el sueldo neto\obj\Debug\Calcula el sueldo neto.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Calcula el sueldo neto\Calcula el sueldo neto\obj\Debug\Calcula el sueldo neto.pdb

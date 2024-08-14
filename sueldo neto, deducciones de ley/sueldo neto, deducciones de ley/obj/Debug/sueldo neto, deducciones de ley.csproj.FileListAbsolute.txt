@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\sueldo neto, deducciones de ley\sueldo neto, deducciones de ley\bin\Debug\sueldo neto, deducciones de ley.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\sueldo neto, deducciones de ley\sueldo neto, deducciones de ley\bin\Debug\sueldo neto, deducciones de ley.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\sueldo neto, deducciones de ley\sueldo neto, deducciones de ley\bin\Debug\sueldo neto, deducciones de ley.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\sueldo neto, deducciones de ley\sueldo neto, deducciones de ley\obj\Debug\sueldo neto, deducciones de ley.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\sueldo neto, deducciones de ley\sueldo neto, deducciones de ley\obj\Debug\sueldo neto, deducciones de ley.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\sueldo neto, deducciones de ley\sueldo neto, deducciones de ley\obj\Debug\sueldo neto, deducciones de ley.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\sueldo neto, deducciones de ley\sueldo neto, deducciones de ley\obj\Debug\sueldo neto, deducciones de ley.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MATRICES SI ES PAR O IMPAR", "MATRICES SI ES PAR O IMPAR\MATRICES SI ES PAR O IMPAR.csproj", "{A54BF841-88DF-41F1-B72B-12D9104FA0D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54BF841-88DF-41F1-B72B-12D9104FA0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54BF841-88DF-41F1-B72B-12D9104FA0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54BF841-88DF-41F1-B72B-12D9104FA0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54BF841-88DF-41F1-B72B-12D9104FA0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0C4FEA-E024-470C-A5F2-CD5E59C1C5E8}
+	EndGlobalSection
+EndGlobal

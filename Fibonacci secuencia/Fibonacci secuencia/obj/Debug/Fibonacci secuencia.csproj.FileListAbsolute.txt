@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Fibonacci secuencia\Fibonacci secuencia\bin\Debug\Fibonacci secuencia.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Fibonacci secuencia\Fibonacci secuencia\bin\Debug\Fibonacci secuencia.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Fibonacci secuencia\Fibonacci secuencia\bin\Debug\Fibonacci secuencia.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Fibonacci secuencia\Fibonacci secuencia\obj\Debug\Fibonacci secuencia.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Fibonacci secuencia\Fibonacci secuencia\obj\Debug\Fibonacci secuencia.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Fibonacci secuencia\Fibonacci secuencia\obj\Debug\Fibonacci secuencia.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Fibonacci secuencia\Fibonacci secuencia\obj\Debug\Fibonacci secuencia.pdb

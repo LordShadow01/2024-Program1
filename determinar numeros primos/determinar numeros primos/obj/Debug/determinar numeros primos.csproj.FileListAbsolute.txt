@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\determinar numeros primos\determinar numeros primos\bin\Debug\determinar numeros primos.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\determinar numeros primos\determinar numeros primos\bin\Debug\determinar numeros primos.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\determinar numeros primos\determinar numeros primos\bin\Debug\determinar numeros primos.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\determinar numeros primos\determinar numeros primos\obj\Debug\determinar numeros primos.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\determinar numeros primos\determinar numeros primos\obj\Debug\determinar numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\determinar numeros primos\determinar numeros primos\obj\Debug\determinar numeros primos.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\determinar numeros primos\determinar numeros primos\obj\Debug\determinar numeros primos.pdb

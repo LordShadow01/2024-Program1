@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\LAB2 GRUPAL\LAB2 GRUPAL\bin\Debug\LAB2 GRUPAL.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\LAB2 GRUPAL\LAB2 GRUPAL\bin\Debug\LAB2 GRUPAL.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\LAB2 GRUPAL\LAB2 GRUPAL\bin\Debug\LAB2 GRUPAL.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\LAB2 GRUPAL\LAB2 GRUPAL\obj\Debug\LAB2 GRUPAL.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\LAB2 GRUPAL\LAB2 GRUPAL\obj\Debug\LAB2 GRUPAL.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\LAB2 GRUPAL\LAB2 GRUPAL\obj\Debug\LAB2 GRUPAL.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\LAB2 GRUPAL\LAB2 GRUPAL\obj\Debug\LAB2 GRUPAL.pdb

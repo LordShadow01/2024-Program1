@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Impuesto Parcial comp 1\Impuesto Parcial comp 1\bin\Debug\Impuesto Parcial comp 1.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Impuesto Parcial comp 1\Impuesto Parcial comp 1\bin\Debug\Impuesto Parcial comp 1.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Impuesto Parcial comp 1\Impuesto Parcial comp 1\bin\Debug\Impuesto Parcial comp 1.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Impuesto Parcial comp 1\Impuesto Parcial comp 1\obj\Debug\Impuesto Parcial comp 1.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Impuesto Parcial comp 1\Impuesto Parcial comp 1\obj\Debug\Impuesto Parcial comp 1.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Impuesto Parcial comp 1\Impuesto Parcial comp 1\obj\Debug\Impuesto Parcial comp 1.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Impuesto Parcial comp 1\Impuesto Parcial comp 1\obj\Debug\Impuesto Parcial comp 1.pdb

@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\calcular la media armonica\calcular la media armonica\bin\Debug\calcular la media armonica.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\calcular la media armonica\calcular la media armonica\bin\Debug\calcular la media armonica.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\calcular la media armonica\calcular la media armonica\bin\Debug\calcular la media armonica.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\calcular la media armonica\calcular la media armonica\obj\Debug\calcular la media armonica.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\calcular la media armonica\calcular la media armonica\obj\Debug\calcular la media armonica.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\calcular la media armonica\calcular la media armonica\obj\Debug\calcular la media armonica.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\calcular la media armonica\calcular la media armonica\obj\Debug\calcular la media armonica.pdb

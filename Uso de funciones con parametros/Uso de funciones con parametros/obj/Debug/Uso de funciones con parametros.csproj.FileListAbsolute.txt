@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Uso de funciones con parametros\Uso de funciones con parametros\bin\Debug\Uso de funciones con parametros.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Uso de funciones con parametros\Uso de funciones con parametros\bin\Debug\Uso de funciones con parametros.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Uso de funciones con parametros\Uso de funciones con parametros\bin\Debug\Uso de funciones con parametros.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Uso de funciones con parametros\Uso de funciones con parametros\obj\Debug\Uso de funciones con parametros.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Uso de funciones con parametros\Uso de funciones con parametros\obj\Debug\Uso de funciones con parametros.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Uso de funciones con parametros\Uso de funciones con parametros\obj\Debug\Uso de funciones con parametros.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Uso de funciones con parametros\Uso de funciones con parametros\obj\Debug\Uso de funciones con parametros.pdb

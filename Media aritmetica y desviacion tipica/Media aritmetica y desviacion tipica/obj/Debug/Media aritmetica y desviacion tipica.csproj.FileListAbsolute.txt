@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Media aritmetica y desviacion tipica\Media aritmetica y desviacion tipica\bin\Debug\Media aritmetica y desviacion tipica.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Media aritmetica y desviacion tipica\Media aritmetica y desviacion tipica\bin\Debug\Media aritmetica y desviacion tipica.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Media aritmetica y desviacion tipica\Media aritmetica y desviacion tipica\bin\Debug\Media aritmetica y desviacion tipica.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Media aritmetica y desviacion tipica\Media aritmetica y desviacion tipica\obj\Debug\Media aritmetica y desviacion tipica.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Media aritmetica y desviacion tipica\Media aritmetica y desviacion tipica\obj\Debug\Media aritmetica y desviacion tipica.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Media aritmetica y desviacion tipica\Media aritmetica y desviacion tipica\obj\Debug\Media aritmetica y desviacion tipica.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\Media aritmetica y desviacion tipica\Media aritmetica y desviacion tipica\obj\Debug\Media aritmetica y desviacion tipica.pdb

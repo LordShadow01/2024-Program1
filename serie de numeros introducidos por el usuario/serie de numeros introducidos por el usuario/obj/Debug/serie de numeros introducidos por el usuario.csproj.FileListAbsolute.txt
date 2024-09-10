@@ -1,0 +1,6 @@
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\serie de numeros introducidos por el usuario\serie de numeros introducidos por el usuario\bin\Debug\serie de numeros introducidos por el usuario.exe.config
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\serie de numeros introducidos por el usuario\serie de numeros introducidos por el usuario\bin\Debug\serie de numeros introducidos por el usuario.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\serie de numeros introducidos por el usuario\serie de numeros introducidos por el usuario\bin\Debug\serie de numeros introducidos por el usuario.pdb
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\serie de numeros introducidos por el usuario\serie de numeros introducidos por el usuario\obj\Debug\serie de numeros introducidos por el usuario.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\serie de numeros introducidos por el usuario\serie de numeros introducidos por el usuario\obj\Debug\serie de numeros introducidos por el usuario.exe
+C:\Users\destr\OneDrive\Escritorio\JONATHAN ROSALES\serie de numeros introducidos por el usuario\serie de numeros introducidos por el usuario\obj\Debug\serie de numeros introducidos por el usuario.pdb
